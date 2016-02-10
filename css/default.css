@@ -1,6 +1,6 @@
 body{
-    font-family: "Verdana";
-    background-color: skyblue;
+    font-family: "Comic Sans MS";
+    background-color: deeppink;
     color: white;
 }
 
@@ -34,4 +34,5 @@ ul.ponys li figure img{
 ul.ponys li figure figcaption {
     text-align: center;
     font-size: 150%;
+
 } 
